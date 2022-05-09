@@ -1,6 +1,12 @@
 # Lovable
 
 
+
+The detailed artistic vision and visual display can be found [here](https://volcano-reason-144.notion.site/Lovable-Robot-s-Love-31582419b5ff4f17adb28b91c18dea4b).
+
+![doggie](doggie.jpg)
+
+
 Run Speech Recognition
 
 1. open google colab notebook
